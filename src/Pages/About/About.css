@@ -1,0 +1,27 @@
+.About {
+  margin: 184px auto;
+}
+
+.About .About-wapper {
+  display: flex;
+  background-color: #555;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.About .About-wapper h3 {
+  font-size: 50px;
+  font-weight: bold;
+  color: white;
+  width: 20%;
+  text-align: center;
+}
+
+.About .About-wapper p {
+  width: 80%;
+  line-height: 1.7;
+  color: #EEE;
+  font-size: 17px;
+  padding: 20px 10px 20px 0px;
+}
